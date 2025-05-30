@@ -1,0 +1,14 @@
+{
+  "Montserrado": {
+    "unemployment_rate": 0.12,
+    "avg_income": 200
+  },
+  "Bong": {
+    "unemployment_rate": 0.18,
+    "avg_income": 150
+  },
+  "Nimba": {
+    "unemployment_rate": 0.15,
+    "avg_income": 180
+  }
+}

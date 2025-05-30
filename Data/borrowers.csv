@@ -1,0 +1,4 @@
+id,name,region,loan_amount,base_score
+B001,Alice Doe,Montserrado,500,0.6
+B002,John Smith,Bong,300,0.4
+B003,Mary Johnson,Nimba,450,0.5
